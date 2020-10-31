@@ -1,14 +1,9 @@
 """
  *****************************************************************************
-   FILE:        windchill.py
+   FILE:         windchill.py
 
-   AUTHOR:		Truong Pham
-
-   ASSIGNMENT: 	Project_Winchill
-
-   DATE:		8/28/18
-
-   DESCRIPTION:	Create a windchill calculator
+   DESCRIPTION:	The program takes inputs of temperature and wind speed
+                  to calculate windchill
 
  *****************************************************************************
 """
