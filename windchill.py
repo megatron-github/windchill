@@ -2,7 +2,7 @@
  *****************************************************************************
    FILE:         windchill.py
 
-   DESCRIPTION:	The program takes inputs of temperature and wind speed
+   DESCRIPTION:	The program takes inputs of temperature and wind speed 
                   to calculate windchill
 
  *****************************************************************************
